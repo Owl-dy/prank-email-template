@@ -19,7 +19,7 @@ Please don't make the others mad or carry out malicious pranks. The creator and 
 1. Download the code from this page and unzip
 2. Pick a `.html` file to be your email template
 3. Open the `.html` file using a browser to see what you would like to change
-4. Use a text editor to open the `.html` file, and search for what you would like to change
+4. Use a text editor to open the `.html` file, and `ctr + f` (`Command +f ` for :apple:)search for what you would like to change
 5. Make changes and save
 6. Refresh the browser, then copy and paste the customized template to your email, and send
 7. :tada: You are done!! :tada: 
