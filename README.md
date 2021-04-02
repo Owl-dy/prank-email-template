@@ -3,7 +3,9 @@
 ## What is it? Why would you use it?
 
 This repo is an easy tutorial to show you how to customize an email to prank your friends. :wink: 
+
 I used it to prank my friends on April Fool's Day, and we had fun!
+
 *"It will only take you 2 minutes"* :boy:
 
 ------
